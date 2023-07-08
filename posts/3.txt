@@ -1,5 +1,5 @@
-Company Name:HITACHISOLUTIONSLTD. 
-Job Title:Data Engineer with Databricks - Empower AaaS team
-Required Skills:microsofttechnologies,scala,sql,database,git,softwareengineering,bigdata,businessapplications,python,hitachi,infrastructure 
+Company Name:ICERTIS 
+Job Title:Assoc Architect - Cloud Automation role
+Required Skills:storage,docker,security,pythonscripting,devops,linux,asp.net,c#,microsoftazure,windows,visualstudio,infrastructure,.net 
 Publised Time:Posted today
-More info:https://www.timesjobs.com/job-detail/data-engineer-with-databricks-empower-aaas-team-hitachi-solutions-ltd-2-to-6-yrs-jobid-asq0Y7MvawVzpSvf__PLUS__uAgZw==&source=srp
+More info:https://www.timesjobs.com/job-detail/assoc-architect-cloud-automation-role-icertis-pune-10-to-13-yrs-jobid-4nYqtgpJ59hzpSvf__PLUS__uAgZw==&source=srp

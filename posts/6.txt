@@ -1,5 +1,5 @@
-Company Name:berkmeerindiaprivatelimited(hgshealthcare) 
-Job Title:TECHNICAL LEAD
-Required Skills:c#,mvcarchitecture,ajax,javascript,jquery,linq,asp.net,oops,.net,json,webapi,mvc 
+Company Name:Hopin.in 
+Job Title:Senior Full Stack Engineer - Streamable
+Required Skills:css,hosting,docker,html,ffmpeg,python,windows,javascript,infrastructure 
 Publised Time:Posted today
-More info:https://www.timesjobs.com/job-detail/technical-lead-berkmeer-india-private-limited-hgs-healthcare-bengaluru-bangalore-0-to-3-yrs-jobid-pMa__PLUS__OEU0kZxzpSvf__PLUS__uAgZw==&source=srp
+More info:https://www.timesjobs.com/job-detail/senior-full-stack-engineer-streamable-hopin-in-2-to-3-yrs-jobid-eGMjPNHuD8FzpSvf__PLUS__uAgZw==&source=srp
