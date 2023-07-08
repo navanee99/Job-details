@@ -1,0 +1,5 @@
+Job Title:Web App to Store Data of 5000 employees and Visual Reporting
+Remaining Days to Apply:6 days left
+More info:/projects/php/web-app-store-data-employees
+Salary:$9-$15/hr
+Required skills:Database,ProgrammingDjangoMySQLPHPSoftware,Architecture
